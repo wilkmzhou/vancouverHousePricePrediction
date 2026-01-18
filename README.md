@@ -7,7 +7,7 @@
    - Split dataset 70/30 for training/testing
 2. Preliminary Data Exploration
    - Assess if there is multicollinearity
-   - Plot the variables to get a general understanding of what each variables 
+   - Plot the variables to get a general understanding of what each variables do to the house price
    - Remove redundant variables or variables unimportant in regression 
    do to the house price
 3. Put dataset through LASSO algorithm to find coefficients for predictive model
